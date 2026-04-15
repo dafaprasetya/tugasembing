@@ -69,7 +69,8 @@ body {
 .artikel {
   display: flex;
   gap: 15px;
-  background: white;
+  background: #555;
+  color: white;
   padding: 15px;
   margin-bottom: 20px;
   border-radius: 10px;
@@ -90,7 +91,7 @@ body {
 }
 
 .artikel b {
-  background: #eaeaea;
+  background: #353535;
   padding: 3px 6px;
   margin-right: 5px;
   font-size: 12px;
@@ -99,7 +100,7 @@ body {
 
 .artikel p {
   margin: 10px 0;
-  color: #555;
+  color: white;
 }
 
 #sidebar {
@@ -107,6 +108,7 @@ body {
 }
 
 #sidebar h2 {
+    color: white;
   margin-bottom: 10px;
 }
 
